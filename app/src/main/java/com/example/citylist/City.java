@@ -1,4 +1,4 @@
-package com.example.citylist;
+ package com.example.citylist;
 
 public class City implements Comparable<City>{
     private String city;
